@@ -1,0 +1,14 @@
+.registration-form-container {
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.registration-form-container h2 {
+  color: #333;
+  font-size: 24px;
+  font-weight: bold;
+}
+
